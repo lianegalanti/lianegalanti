@@ -1,2 +1,7 @@
 
-### Welcome! I'm Liane Galanti. This is my work account, which I use less frequently. For a more active and up-to-date view of my projects, feel free to check out my personal account at https://github.com/Lianga2000!
+# Welcome! 👋
+
+I'm **Liane Galanti**, and this is my university GitHub account. I use this account less frequently, but you're welcome to explore my repositories here.
+
+For a more active and up-to-date view of my projects, please visit my **personal GitHub account**:  
+👉 [**Lianga2000**](https://github.com/Lianga2000)
